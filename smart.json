@@ -4,6 +4,5 @@
   "homepage": "https://github.com/craigwedseltoft/meteor-klass",
   "author": "Craig Wedseltoft <craigwedseltoft@gmail.com>",
   "version": "1.3.0",
-  "git": "https://github.com/craigwedseltoft/meteor-klass.git",
-  "packages": {}
+  "git": "https://github.com/craigwedseltoft/meteor-klass.git"
 }
